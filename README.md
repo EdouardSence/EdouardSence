@@ -66,7 +66,12 @@ et contributions à l'émulation PS5 (16 PR mergées sur AnyPS5).
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **DevOps / Infra**
 
@@ -76,6 +81,7 @@ et contributions à l'émulation PS5 (16 PR mergées sur AnyPS5).
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
@@ -91,9 +97,10 @@ et contributions à l'émulation PS5 (16 PR mergées sur AnyPS5).
 | [**AnyPS5**](https://github.com/boykopovar/AnyPS5/pulls?q=author%3AEdouardSence+is%3Amerged) | 16 PR mergées sur l'outil de portage automatique d'exécutables PS5 vers Linux/Windows |
 | [**WiiPlayNative**](https://github.com/Poop-Agency/WiiPlayNative) | Portage natif C++20 de Wii Play: Tanks! : chargement des 100 missions d'origine, rendu Raylib, multijoueur en ligne ENet |
 | [**Tanks!**](https://github.com/Poop-Agency/wiiPlayTanks) | Version web de Tanks! jouable en coop en ligne de 2 à 4 joueurs : [**jouer**](https://wii-play-tanks.vercel.app) |
-| [**boxtoplay-dashboard**](https://github.com/Poop-Agency/boxtoplay-dashboard) | Rotation automatique de serveurs Minecraft avec dashboard de contrôle et bot Discord de relais chat/stats |
+| [**boxtoplay-dashboard**](https://github.com/Poop-Agency/boxtoplay-dashboard) | Rotation automatique de serveurs Minecraft : dashboard TanStack Start sur Vercel, worker de scraping des modpacks, bot Discord de relais chat/stats |
 | [**ratiomaster-cli**](https://github.com/EdouardSence/ratiomaster-cli) | Portage CLI de RatioMaster.NET : simulateur d'annonces tracker BitTorrent |
-| [**Timeless-Heroes**](https://github.com/EdouardSence/Timeless-Heroes) | Jeu incrémental dans le terminal : chaque touche tapée fait progresser, avec leaderboard |
+| [**Timeless-Heroes**](https://github.com/EdouardSence/Timeless-Heroes) | Jeu idle sur le thème du dev : backend NestJS en microservices (Redis, BullMQ, NATS, PostgreSQL, JWT, anti-triche), apps Electron et Next.js |
+| [**MOONGO**](https://github.com/EdouardSence/MOONGO) | App mobile Flutter avec Firestore : collection de créatures, calendrier de tâches, thèmes, golden tests |
 
 </div>
 
