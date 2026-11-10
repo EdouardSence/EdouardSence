@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=160&section=header&text=Edouard%20Sence&fontSize=42&fontColor=c0caf5&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <a href="https://github.com/EdouardSence">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=520&lines=D%C3%A9veloppeur+logiciel+%F0%9F%92%BB;Homelab+%26+automatisation+%F0%9F%8F%A0;Bots%2C+CI%2FCD+et+portages+PC+%F0%9F%8E%AE" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=520&lines=D%C3%A9veloppeur+logiciel+%F0%9F%92%BB;Homelab+%26+automatisation+%F0%9F%8F%A0;Bots%2C+CI%2FCD+et+%C3%A9mulation+PS5+%F0%9F%8E%AE" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -25,11 +25,24 @@
 
 ### 📰 À propos
 
-Étudiant en **Mastère Expert en Développement logiciel, mobile et IoT** à **Ynov Campus Bordeaux**.<br/>
-Passionné d'automatisation, d'auto-hébergement et de bidouille : je fais tourner mon propre homelab Proxmox,<br/>
-je code des bots Discord/Minecraft et je contribue à des portages natifs de jeux PS4/PS5 vers PC.
+Développeur logiciel, **diplômé d'un Mastère Expert en Développement logiciel, mobile et IoT** (Ynov Campus Bordeaux).<br/>
+En dehors du boulot, j'automatise tout ce qui peut l'être : homelab auto-hébergé, bots, CI/CD,<br/>
+et contributions à l'émulation PS5 (16 PR mergées sur AnyPS5).
 
 </div>
+
+---
+
+<div align="center">
+
+### 🧩 Ce sur quoi je bosse
+
+</div>
+
+- 🎮 **Émulation PS5 → PC** : contributions C++ à [AnyPS5](https://github.com/boykopovar/AnyPS5) (traduction de shaders, pilote graphique AGC, modules audio Ngs2, librairies système HLE, perfs)
+- 🏠 **Homelab Proxmox** : conteneurs LXC, stack média Podman (Jellyfin, Sonarr, Shoko…), AdGuard, VPN Tailscale, scripts d'automatisation Python
+- 🤖 **Bots & automatisation** : rotation automatique de serveurs Minecraft avec auto-récupération des crashs, bot Discord de relais chat/stats déployé sur Render
+- 🧠 **Dev assisté par IA** : workflows multi-agents (Claude Code, Gemini), mémoire partagée auto-hébergée entre mes machines
 
 ---
 
@@ -74,7 +87,7 @@ je code des bots Discord/Minecraft et je contribue à des portages natifs de jeu
 | Projet | Description |
 |--------|-------------|
 | [**ratiomaster-cli**](https://github.com/EdouardSence/ratiomaster-cli) | Portage CLI de RatioMaster.NET : simulateur d'annonces tracker BitTorrent |
-| [**AnyPS5**](https://github.com/boykopovar/AnyPS5) | Contributions à l'outil de portage automatique d'exécutables PS5 vers Linux/Windows |
+| [**AnyPS5**](https://github.com/boykopovar/AnyPS5/pulls?q=author%3AEdouardSence+is%3Amerged) | 16 PR mergées sur l'outil de portage automatique d'exécutables PS5 vers Linux/Windows |
 | [**Timeless-Heroes**](https://github.com/EdouardSence/Timeless-Heroes) | Jeu incrémental dans le terminal : chaque touche tapée fait progresser, avec leaderboard |
 | [**boxtoplay**](https://github.com/EdouardSence/boxtoplay) | Rotation automatique de serveurs Minecraft + bot Discord de relais chat/stats |
 
