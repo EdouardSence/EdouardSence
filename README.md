@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=160&section=header&text=Edouard%20Sence&fontSize=42&fontColor=c0caf5&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <a href="https://github.com/EdouardSence">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=520&lines=D%C3%A9veloppeur+logiciel+%F0%9F%92%BB;Homelab+%26+automatisation+%F0%9F%8F%A0;Bots%2C+CI%2FCD+modding+Nintendo+%F0%9F%8D%84;%C3%89mulation+PS5+%E2%86%92+PC+%F0%9F%8E%AE" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=520&lines=D%C3%A9veloppeur+logiciel+%F0%9F%92%BB;Homelab+%26+automatisation+%F0%9F%8F%A0;Bots+%26+CI%2FCD+%F0%9F%A4%96;Modding+Nintendo+%F0%9F%8D%84;%C3%89mulation+PS5+%E2%86%92+PC+%F0%9F%8E%AE" alt="Typing SVG"/>
 </a>
 
 <br/>
