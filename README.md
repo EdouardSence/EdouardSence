@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=160&section=header&text=Edouard%20Sence&fontSize=42&fontColor=c0caf5&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <a href="https://github.com/EdouardSence">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=520&lines=D%C3%A9veloppeur+logiciel+%F0%9F%92%BB;Homelab+%26+automatisation+%F0%9F%8F%A0;Bots%2C+CI%2FCD+et+%C3%A9mulation+PS5+%F0%9F%8E%AE" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=520&lines=D%C3%A9veloppeur+logiciel+%F0%9F%92%BB;Homelab+%26+automatisation+%F0%9F%8F%A0;Bots%2C+CI%2FCD+modding+Nintendo+%F0%9F%8D%84;%C3%89mulation+PS5+%E2%86%92+PC+%F0%9F%8E%AE" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -39,6 +39,7 @@ et contributions à l'émulation PS5 (16 PR mergées sur AnyPS5).
 
 </div>
 
+- 🍄 **Modding Nintendo** : un mod coop local 2 à 4 joueurs pour Super Mario Galaxy (en C++ sur la décompilation Petari), et un portage natif de Wii Play: Tanks!
 - 🎮 **Émulation PS5 → PC** : contributions C++ à [AnyPS5](https://github.com/boykopovar/AnyPS5) (traduction de shaders, pilote graphique AGC, modules audio Ngs2, librairies système HLE, perfs)
 - 🏠 **Homelab Proxmox** : conteneurs LXC, stack média Podman (Jellyfin, Sonarr, Shoko…), AdGuard, VPN Tailscale, scripts d'automatisation Python
 - 🤖 **Bots & automatisation** : rotation automatique de serveurs Minecraft avec auto-récupération des crashs, bot Discord de relais chat/stats déployé sur Render
@@ -86,10 +87,13 @@ et contributions à l'émulation PS5 (16 PR mergées sur AnyPS5).
 
 | Projet | Description |
 |--------|-------------|
-| [**ratiomaster-cli**](https://github.com/EdouardSence/ratiomaster-cli) | Portage CLI de RatioMaster.NET : simulateur d'annonces tracker BitTorrent |
+| **Super Mario Galaxy — Local Co-op** *(repo privé)* | Mod coop 2 à 4 joueurs sur le même écran, façon 3D World : caméra de groupe, bulles, un Mario complet par joueur |
 | [**AnyPS5**](https://github.com/boykopovar/AnyPS5/pulls?q=author%3AEdouardSence+is%3Amerged) | 16 PR mergées sur l'outil de portage automatique d'exécutables PS5 vers Linux/Windows |
+| [**WiiPlayNative**](https://github.com/Poop-Agency/WiiPlayNative) | Portage natif C++20 de Wii Play: Tanks! : chargement des 100 missions d'origine, rendu Raylib, multijoueur en ligne ENet |
+| [**Tanks!**](https://github.com/Poop-Agency/wiiPlayTanks) | Version web de Tanks! jouable en coop en ligne de 2 à 4 joueurs : [**jouer**](https://wii-play-tanks.vercel.app) |
+| [**boxtoplay-dashboard**](https://github.com/Poop-Agency/boxtoplay-dashboard) | Rotation automatique de serveurs Minecraft avec dashboard de contrôle et bot Discord de relais chat/stats |
+| [**ratiomaster-cli**](https://github.com/EdouardSence/ratiomaster-cli) | Portage CLI de RatioMaster.NET : simulateur d'annonces tracker BitTorrent |
 | [**Timeless-Heroes**](https://github.com/EdouardSence/Timeless-Heroes) | Jeu incrémental dans le terminal : chaque touche tapée fait progresser, avec leaderboard |
-| [**boxtoplay**](https://github.com/EdouardSence/boxtoplay) | Rotation automatique de serveurs Minecraft + bot Discord de relais chat/stats |
 
 </div>
 
